@@ -1,0 +1,2 @@
+Mentor.create(first_name: "John",last_name: "Doe", work_id: "1234", email: "johndoe@gmail.com", password: "123456", role: "tutor")
+Mentor.create(first_name: "Michael",last_name: "Hill", work_id: "123456", email: "mikehill@gmail.com", password: "123456", role: "tutor")
